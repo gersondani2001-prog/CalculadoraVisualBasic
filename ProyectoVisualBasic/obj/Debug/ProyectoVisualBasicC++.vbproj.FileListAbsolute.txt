@@ -1,0 +1,11 @@
+C:\Users\yaili\Desktop\Home\Gerson\Proyectos\ProyectoVisualBasicC++\bin\Debug\ProyectoVisualBasicC++.exe.config
+C:\Users\yaili\Desktop\Home\Gerson\Proyectos\ProyectoVisualBasicC++\bin\Debug\ProyectoVisualBasicC++.exe
+C:\Users\yaili\Desktop\Home\Gerson\Proyectos\ProyectoVisualBasicC++\bin\Debug\ProyectoVisualBasicC++.pdb
+C:\Users\yaili\Desktop\Home\Gerson\Proyectos\ProyectoVisualBasicC++\bin\Debug\ProyectoVisualBasicC++.xml
+C:\Users\yaili\Desktop\Home\Gerson\Proyectos\ProyectoVisualBasicC++\obj\Debug\ProyectoVisualBasicC++.vbprojAssemblyReference.cache
+C:\Users\yaili\Desktop\Home\Gerson\Proyectos\ProyectoVisualBasicC++\obj\Debug\ProyectoVisualBasicC__.Form1.resources
+C:\Users\yaili\Desktop\Home\Gerson\Proyectos\ProyectoVisualBasicC++\obj\Debug\ProyectoVisualBasicC__.Resources.resources
+C:\Users\yaili\Desktop\Home\Gerson\Proyectos\ProyectoVisualBasicC++\obj\Debug\ProyectoVisualBasicC++.vbproj.GenerateResource.cache
+C:\Users\yaili\Desktop\Home\Gerson\Proyectos\ProyectoVisualBasicC++\obj\Debug\ProyectoVisualBasicC++.exe
+C:\Users\yaili\Desktop\Home\Gerson\Proyectos\ProyectoVisualBasicC++\obj\Debug\ProyectoVisualBasicC++.xml
+C:\Users\yaili\Desktop\Home\Gerson\Proyectos\ProyectoVisualBasicC++\obj\Debug\ProyectoVisualBasicC++.pdb
